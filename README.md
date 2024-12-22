@@ -1,6 +1,7 @@
 # Power-BI
 # Problem Statement
-The Excel file contains HR data of a company containing colums- name, gender, Designations before and after various financial years, people hired in FY 20, perforamnce rating, people leaving the company etc. We had find out the reason for gender ratio imbalance in Executive positions.
+        The Excel file contains HR data of a company containing colums- name, gender, Designations before and after various financial years, people hired in FY 20, perforamnce rating, people leaving the company etc. We had find out the reason for gender ratio imbalance in         Executive positions.
+        Excel file: https://docs.google.com/spreadsheets/d/19PllTbHEPJrs0ghV4EhncwrZxm6XvAE6/edit?usp=drive_link&ouid=106961967301950240916&rtpof=true&sd=true
 
 # Steps followed:
         Step 1 : Load data into Power BI Desktop, dataset is a csv file
